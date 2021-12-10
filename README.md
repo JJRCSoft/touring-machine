@@ -1,5 +1,5 @@
-# Touring Machine Examples for touringmachine.io
+# Touring Machine Examples for turingmachine.io
 
-Some touring machine examples for touringmachine.io
+Some touring machine examples for turingmachine.io
 
-[Go to page] (https://touringmachine.io)
+[Go to page] (https://turingmachine.io)
